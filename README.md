@@ -9,4 +9,5 @@ This repository has 4 files consists of:
 - **run_analysis.R** : This R script is used for making the dataset tidy.
 - **README.md** :  This is used for brief explanation of the course project.
 - **tidy_data.txt** : This is the tidied dataset result from the run_analysis.R script.
-- 
+- **CodeBook.md** : This explains all the variables, data, and transformations happening on the script.
+
